@@ -13,7 +13,9 @@
 <h3 align="center">🗄️ Databases & ORM</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,MSSQL,Oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png"/>
 </p>
 
 <h3 align="center">☁️ Cloud & Tools</h3>

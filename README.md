@@ -1,13 +1,34 @@
-Desenvolvedor Full Stack
+<p align="center" style="font-size:28px; font-weight:600;">
+  Desenvolvedor Full Stack
+</p>
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+
+##
+
+<h3 align="center">🧠 Languages & Frontend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react" />
+</p>
+
+<h3 align="center">⚙️ Backend & Runtime</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,npm" />
+</p>
+
+<h3 align="center">🗄️ Databases & ORM</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
+</p>
+
+<h3 align="center">☁️ Cloud & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure,git,github,vscode" />
+</p>
+
 
 Olá, tudo bem? 
 Eu sou Jéferson Benini, atualmente sou Analista de Sistemas N2 com mais de 3 anos de experiência, contendo conhecimentos de Banco de Dados em SQL, Oracle.

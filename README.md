@@ -1,7 +1,7 @@
-<p align="center" style="font-size:28px; font-weight:600;">
+<h1 align="center" style="font-size:28px; font-weight:600;">
   Desenvolvedor Full Stack
-</p>
-<br>
+</h1>
+
 ##
 
 <h3 align="center">🧠 Languages & Technologies</h3>

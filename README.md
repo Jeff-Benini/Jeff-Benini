@@ -13,7 +13,7 @@
 <h3 align="center">🗄️ Databases & ORM</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma,MSSQL,Oracle" />
 </p>
 
 <h3 align="center">☁️ Cloud & Tools</h3>

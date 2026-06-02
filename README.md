@@ -39,8 +39,8 @@ Estou em transição de carreira e tenho focado na minha especialização em des
 
 Estou aberto a oportunidades como desenvolvedor para aprimorar minhas habilidades e motivado a contribuir, evoluir tecnicamente e apoiar os objetivos do time.
 
-<a href="https://www.linkedin.com/in/j%C3%A9ferson-benini-1141bb1a2/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-<a href="https://www.instagram.com/jeff_benini?igsh=MXNnc3lsbm4xdTJ2MQ==">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/j%C3%A9ferson-benini-1141bb1a2/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jeff_benini?igsh=MXNnc3lsbm4xdTJ2MQ=="><img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <p/>

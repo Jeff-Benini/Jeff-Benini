@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,prisma"/>
-  <img height:20px; width:20px; src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"/>
+  <img style="height:20px; width:20px;" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/oracle.png"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mssql.png"/>
 </p>
 

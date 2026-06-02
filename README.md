@@ -2,19 +2,12 @@
   Desenvolvedor Full Stack
 </p>
 <br>
-
 ##
 
-<h3 align="center">🧠 Languages & Frontend</h3>
+<h3 align="center">🧠 Languages & Technologies</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react" />
-</p>
-
-<h3 align="center">⚙️ Backend & Runtime</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nodejs,npm" />
 </p>
 
 <h3 align="center">🗄️ Databases & ORM</h3>

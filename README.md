@@ -24,11 +24,12 @@
 
 
 Olá, tudo bem? 
-Eu sou Jéferson Benini, atualmente sou Analista de Sistemas N2 com mais de 3 anos de experiência, contendo conhecimentos de Banco de Dados em SQL, Oracle.
 
-Sou uma pessoa comprometida e determinada, tendo resiliência e comunicação minhas melhores Soft Skills e tendo desenvolvido habilidades sólidas como a facilidade em resolver problemas, organização e uma comunicação clara devido a minha experiência como analista.
+Eu sou Jéferson Benini, atualmente estou em transição de carreira, atuo como Analista de Sistemas N2 e tenho um background sólido com mais de 3 anos de experiência, contendo conhecimentos e habilidades de análise de dados, automação de processos, atendimento ao cliente e Banco de Dados em SQL Server, Oracle, agregando uma visão estratégica ao desenvolvimento de software.
 
-Estou em transição de carreira e tenho focado na minha especialização em desenvolver habilidades essenciais como HTML, CSS, JavaScript, Node.js e React. Para mim esta mudança significa mais do que uma evolução profissional, é a realização de um propósito pessoal e a oportunidade de fazer a diferença.
+Sou extremamente comprometido e determinado, tendo resiliência e comunicação como minhas melhores Soft Skills e havendo desenvolvido habilidades sólidas como a facilidade em resolver problemas, agregando uma visão estratégica, organização e uma comunicação clara devido a experiência como analista. 
+
+Tenho capacidade de aprendizado rápido e adaptação a novos desafios, com conhecimento em metodologias ágeis e contendo habilidades em desenvolvimento de sistemas utilizando como principais tecnologias JavaScript, React, Node.js e TypeScript, versionamento de código (Git) e integração de APIs. Experiência com banco de dados [SQL Server/Oracle/MongoDB] e implementação de arquiteturas eficientes para garantir a escalabilidade das soluções. 
 
 Estou aberto a oportunidades como desenvolvedor para aprimorar minhas habilidades e motivado a contribuir, evoluir tecnicamente e apoiar os objetivos do time.
 

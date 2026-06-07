@@ -35,7 +35,6 @@ Tenho capacidade de aprendizado rápido e adaptação a novos desafios, com conh
 
 Estou aberto a oportunidades como desenvolvedor para aprimorar minhas habilidades e motivado a contribuir, evoluir tecnicamente e apoiar os objetivos do time.
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/j%C3%A9ferson-benini-1141bb1a2/"><img src="https://img.shields.io/badge/LinkedIn-1E1E1E?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/jeff_benini?igsh=MXNnc3lsbm4xdTJ2MQ=="><img src="https://img.shields.io/badge/Instagram-1E1E1E?style=for-the-badge&logo=instagram&logoColor=white"/></a>
